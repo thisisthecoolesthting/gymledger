@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [When to replace your kettlebells gear (2)](/articles/when-to-replace-your-kettlebells-gear-2/)
 - [kettlebells essentials for weekend projects (3)](/articles/kettlebells-essentials-for-weekend-projects-3/)
+- [When to replace your kettlebells gear (2)](/articles/when-to-replace-your-kettlebells-gear-2/)

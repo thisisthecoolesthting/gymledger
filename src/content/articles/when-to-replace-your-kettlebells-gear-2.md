@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [kettlebells setup checklist for beginners](/articles/kettlebells-setup-checklist-for-beginners/)
 - [kettlebells essentials for weekend projects (3)](/articles/kettlebells-essentials-for-weekend-projects-3/)
+- [kettlebells setup checklist for beginners](/articles/kettlebells-setup-checklist-for-beginners/)

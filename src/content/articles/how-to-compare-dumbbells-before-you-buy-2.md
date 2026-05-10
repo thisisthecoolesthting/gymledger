@@ -1,8 +1,8 @@
 ---
 title: How to compare dumbbells before you buy (2)
 metaDescription: A practical GymLedger guide to choosing dumbbells with fewer regrets.
-publishedAt: '2026-05-06'
-pubDate: '2026-05-06'
+publishedAt: '2026-05-05'
+pubDate: '2026-05-05'
 updatedAt: '2026-05-06'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing dumbbells options for gymledger.app.

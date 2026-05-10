@@ -1,8 +1,8 @@
 ---
 title: 'Budget versus premium benches: what actually matters'
 metaDescription: A practical GymLedger guide to choosing benches with fewer regrets.
-publishedAt: '2026-05-08'
-pubDate: '2026-05-08'
+publishedAt: '2026-05-07'
+pubDate: '2026-05-07'
 updatedAt: '2026-05-09'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing benches options for gymledger.app.
@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [The quiet features that make benches easier to use (2)](/articles/the-quiet-features-that-make-benches-easier-to-use-2/)
 - [Storage and maintenance tips for benches (3)](/articles/storage-and-maintenance-tips-for-benches-3/)
+- [The quiet features that make benches easier to use (2)](/articles/the-quiet-features-that-make-benches-easier-to-use-2/)

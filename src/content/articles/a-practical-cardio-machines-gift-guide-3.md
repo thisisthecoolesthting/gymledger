@@ -44,5 +44,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [The quiet features that make cardio-machines easier to use](/articles/the-quiet-features-that-make-cardio-machines-easier-to-use/)
 - [Storage and maintenance tips for cardio-machines (2)](/articles/storage-and-maintenance-tips-for-cardio-machines-2/)
+- [The quiet features that make cardio-machines easier to use](/articles/the-quiet-features-that-make-cardio-machines-easier-to-use/)

@@ -1,8 +1,8 @@
 ---
 title: Best gym-flooring upgrades for small spaces (3)
 metaDescription: A practical GymLedger guide to choosing gym-flooring with fewer regrets.
-publishedAt: '2026-05-09'
-pubDate: '2026-05-09'
+publishedAt: '2026-05-08'
+pubDate: '2026-05-08'
 updatedAt: '2026-05-04'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing gym-flooring options for gymledger.app.
@@ -42,7 +42,7 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [Best dumbbells upgrades for small spaces](/articles/best-dumbbells-upgrades-for-small-spaces/)
+- [A practical cable-machines gift guide](/articles/a-practical-cable-machines-gift-guide/)
+- [A practical cardio-machines gift guide (3)](/articles/a-practical-cardio-machines-gift-guide-3/)
+- [A practical resistance-bands gift guide (2)](/articles/a-practical-resistance-bands-gift-guide-2/)
 - [barbells buying mistakes to avoid](/articles/barbells-buying-mistakes-to-avoid/)
-- [How to compare power-racks before you buy](/articles/how-to-compare-power-racks-before-you-buy/)
-- [Budget versus premium benches: what actually matters](/articles/budget-versus-premium-benches-what-actually-matters/)

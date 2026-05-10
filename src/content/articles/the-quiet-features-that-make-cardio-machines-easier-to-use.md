@@ -44,5 +44,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [Storage and maintenance tips for cardio-machines (2)](/articles/storage-and-maintenance-tips-for-cardio-machines-2/)
 - [A practical cardio-machines gift guide (3)](/articles/a-practical-cardio-machines-gift-guide-3/)
+- [Storage and maintenance tips for cardio-machines (2)](/articles/storage-and-maintenance-tips-for-cardio-machines-2/)

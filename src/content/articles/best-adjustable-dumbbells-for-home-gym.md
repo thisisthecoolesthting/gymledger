@@ -1,11 +1,15 @@
 ---
-title: "Best adjustable dumbbells for home gym in 2026"
-description: "best adjustable dumbbells for home gym"
-pubDate: 2026-05-10
-author: "marcus-webb"
-tags: ["best adjustable dumbbells for home gym", "power rack under 500", "best barbell for home gym"]
-status: "published"
-heroImage: ""
+title: Best adjustable dumbbells for home gym in 2026
+description: best adjustable dumbbells for home gym
+pubDate: '2026-05-09'
+author: marcus-webb
+tags:
+- best adjustable dumbbells for home gym
+- power rack under 500
+- best barbell for home gym
+status: published
+heroImage: ''
+publishedAt: '2026-05-09'
 ---
 
 Adjustable dumbbells are the ultimate space-saving solution for a home gym. They condense a full rack of weights into a compact footprint, making them indispensable whether you're starting with a basic setup or looking to expand your capabilities without sacrificing an entire wall. But not all adjustable dumbbells are created equal. We've spent months putting the top contenders through their paces, lifting, dropping (within reason), and adjusting them hundreds of times to find out which ones stand up to real training.
@@ -83,3 +87,10 @@ After extensive testing, here are the adjustable dumbbells that earned our recom
 
 ### Best Overall Selectorized: Bowflex SelectTech 552
 The **Bowflex SelectTech 552** ([B001ARYU58](https://www.amazon.com/dp/B001ARYU58/?tag=gymledger-20)) remains the benchmark for selectorized dumbbells, and for
+
+## Related reading
+
+- [A practical cable-machines gift guide](/articles/a-practical-cable-machines-gift-guide/)
+- [A practical cardio-machines gift guide (3)](/articles/a-practical-cardio-machines-gift-guide-3/)
+- [A practical resistance-bands gift guide (2)](/articles/a-practical-resistance-bands-gift-guide-2/)
+- [barbells buying mistakes to avoid](/articles/barbells-buying-mistakes-to-avoid/)

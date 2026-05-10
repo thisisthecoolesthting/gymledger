@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [How to compare dumbbells before you buy (2)](/articles/how-to-compare-dumbbells-before-you-buy-2/)
 - [dumbbells setup checklist for beginners (3)](/articles/dumbbells-setup-checklist-for-beginners-3/)
+- [How to compare dumbbells before you buy (2)](/articles/how-to-compare-dumbbells-before-you-buy-2/)

@@ -1,8 +1,8 @@
 ---
 title: The quiet features that make barbells easier to use (3)
 metaDescription: A practical GymLedger guide to choosing barbells with fewer regrets.
-publishedAt: '2026-05-03'
-pubDate: '2026-05-03'
+publishedAt: '2026-05-02'
+pubDate: '2026-05-02'
 updatedAt: '2026-05-02'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing barbells options for gymledger.app.
