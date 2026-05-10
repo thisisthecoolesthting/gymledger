@@ -1,28 +1,81 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import HowWeTest from '@/components/HowWeTest.astro';
 import home from '@/data/spawn-home.json';
 const b = home.brand;
-const tone = (home as { persona?: { tone?: string; ymyl?: boolean } }).persona?.tone ?? 'wellness';
-const methodology: string[] =
-  (home as { editorial?: { methodology?: string[] } }).editorial?.methodology ?? [];
+const methodology = [
+  {
+    title: 'We buy the equipment ourselves',
+    bullet: home.editorial.methodology[0],
+    body:
+      'We use retail orders because shipping, packaging, missing hardware, and return friction are part of the real ownership experience. Gear stays in regular rotation long enough for loose welds, wobble, finish wear, and annoying daily-use problems to show up.',
+  },
+  {
+    title: 'We test under working loads',
+    bullet: home.editorial.methodology[1],
+    body:
+      'Strength equipment is judged while it is being used the way a serious home gym owner would use it. Stability, sleeve spin, knurling, safeties, noise, and cardio reliability matter more than a polished spec sheet.',
+  },
+  {
+    title: 'We document the assembly',
+    bullet: home.editorial.methodology[2],
+    body:
+      'The clock starts when the boxes hit the floor, not when the manual gets easy. We note mislabeled parts, vague diagrams, required tools, solo-build difficulty, and whether the manufacturer estimate matches reality.',
+  },
+  {
+    title: 'We name the value cliff',
+    bullet: home.editorial.methodology[3],
+    body:
+      'Every category has a point where more money mostly buys prettier branding or a thicker logo plate. We call out the budget, midrange, and premium breakpoints so readers can spend where performance actually changes.',
+  },
+  {
+    title: 'We update when readers find failures',
+    bullet: home.editorial.methodology[4],
+    body:
+      'Repeated reader reports are treated as new evidence, especially when the same weld, cable, motor, or latch fails in the same way. When that happens, we re-check the product and update the verdict instead of letting old praise linger.',
+  },
+  {
+    title: 'We route links by price, not commission',
+    bullet: home.editorial.methodology[5],
+    body:
+      'Affiliate revenue helps fund the testing, but it does not decide the recommendation or the retailer link. We point to the best current legitimate price we can verify and disclose the relationship clearly.',
+  },
+];
 ---
 
 <BaseLayout
   title={`Methodology — ${b.fullName}`}
-  description={`How ${b.fullName} researches, tests, and discloses. Editorial tone: ${String(tone)}.`}
+  description={`How ${b.fullName} researches, tests, and discloses.`}
   ogType="article"
 >
-  <main class="max-w-3xl mx-auto px-4 py-10">
-    <div class="prose">
-      <h1>How {b.fullName} works</h1>
-      <p>
-        This page outlines how we test products, cite sources, and keep shopping fields current. When
-        we use affiliate links, we may earn a commission; that does not change the price you pay. See
-        the <a href="/disclosure">affiliate disclosure</a> and contact us if you spot something that
-        looks out of date.
+  <main class="max-w-3xl mx-auto px-6 py-12 md:py-16">
+    <header class="mb-10">
+      <p class="text-xs uppercase tracking-[0.2em] font-semibold text-accent-600 mb-3">
+        Methodology
       </p>
+      <h1 class="font-display text-4xl md:text-5xl text-ink-900 !mt-0 mb-4">
+        How we test
+      </h1>
+      <p class="text-lg text-ink-700 leading-relaxed">
+        GymLedger reviews are built around long-term use in a real garage gym. Specs matter, but
+        only after the gear has survived training, assembly, storage, and repeated loading.
+      </p>
+    </header>
+
+    <div class="space-y-8">
+      {methodology.map((item, index) => (
+        <section>
+          <p class="text-sm font-semibold text-accent-600 mb-2">Step {index + 1}</p>
+          <h2 class="font-display text-2xl text-ink-900 mt-0 mb-3">{item.title}</h2>
+          <p class="font-semibold text-ink-800 leading-relaxed">{item.bullet}</p>
+          <p class="text-ink-700 leading-relaxed">{item.body}</p>
+        </section>
+      ))}
     </div>
-    <HowWeTest methodology={methodology} title="Our review process" />
+
+    <p class="mt-10 border-t border-ink-100 pt-6 text-ink-700 leading-relaxed">
+      GymLedger does not accept sponsorships, paid placements, or manufacturer samples. If you spot
+      a mistake, a changed price, or a failure pattern we have not covered, email
+      <a href="mailto:hello@gymledger.app"> hello@gymledger.app</a> and we will review it.
+    </p>
   </main>
 </BaseLayout>
