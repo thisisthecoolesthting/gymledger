@@ -7,23 +7,23 @@ export default {
     extend: {
       colors: {
         cream: {
-          50: "#F5F5F5",
-          100: "#EBEBEB",
-          200: "#D6D6D6",
+          50: "#F4F4F1",
+          100: "#F4F4F1",
+          200: "#F4F4F1",
         },
         terracotta: {
-          400: "#16213E",
-          500: "#1A1A2E",
-          600: "#0F0F1A",
+          400: "#E63946",
+          500: "#E63946",
+          600: "#0B0C10",
         },
-        primary: { DEFAULT: "#1A1A2E" },
-        accent: { DEFAULT: "#E94560" },
-        sage: { 400: "#8FA888", 500: "#6F8B6A", 600: "#566F52" },
-        rose: { deep: "#0F0F1A" },
+        primary: { DEFAULT: "#E63946" },
+        accent: { DEFAULT: "#6C727C" },
+        sage: { 400: "#F4F4F1", 500: "#8A8D91", 600: "#6C727C" },
+        rose: { deep: "#0B0C10" },
         ink: {
-          900: "#0F0F1A",
-          700: "#4A4340",
-          500: "#6E6863",
+          900: "#0B0C10",
+          700: "#8A8D91",
+          500: "#8A8D91",
         },
       },
       maxWidth: {
@@ -31,7 +31,7 @@ export default {
       },
       typography: {
         DEFAULT: { css: { maxWidth: "68ch" } },
-        ink: { css: { color: "#4A4340" } },
+        ink: { css: { color: "#8A8D91" } },
       },
       fontFamily: {
         display: ['Space Grotesk', "Georgia", "serif"],
