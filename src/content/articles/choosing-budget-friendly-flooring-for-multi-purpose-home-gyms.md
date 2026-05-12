@@ -24,6 +24,10 @@ Multi-purpose home gym flooring serves several functions simultaneously:
 
 This flooring differs from commercial-grade rubber tiles or mats designed for dedicated lifting platforms or entire gyms. It has to balance protection and comfort while fitting within a budget and spatial constraints typical of home gyms.
 
+
+
+> **See also:** [Choosing the right cardio equipment for limited budgets](https://gymledger.app/articles/choosing-the-right-cardio-equipment-for-limited-budgets/)
+
 ## How Multi-Purpose Home Gym Flooring Works
 
 Home gym flooring works by using materials that absorb impact and distribute compressive forces to protect both your floor and your equipment. Common materials include:

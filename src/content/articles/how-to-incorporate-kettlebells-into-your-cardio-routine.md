@@ -16,6 +16,10 @@ If you find traditional cardio routines—like running or cycling—monotonous o
 
 ---
 
+
+
+> **See also:** [Kettlebell workout routines for fat loss at home](https://gymledger.app/articles/kettlebell-workout-routines-for-fat-loss-at-home/)
+
 ## What Are Kettlebells and Why Use Them for Cardio?
 
 Kettlebells are cast-iron or steel weights with a handle that allow swinging and ballistic movements beyond traditional free weights’ range of motion. They combine strength training and aerobic conditioning thanks to their dynamic, full-body exercises. Unlike dumbbells, kettlebells enable fluid movements that elevate your heart rate quickly while also building muscular endurance and core strength.

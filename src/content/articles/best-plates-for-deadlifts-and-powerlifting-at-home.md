@@ -16,6 +16,10 @@ If you’re building a home gym focused on deadlifts and powerlifting but have a
 
 ---
 
+
+
+> **See also:** [Essential weight plate types for multifunctional home gyms](https://gymledger.app/articles/essential-weight-plate-types-for-multifunctional-home-gyms/)
+
 ## What to Look for in Plates for Deadlifts and Powerlifting
 
 ### 1. Weight Accuracy and Tolerance  

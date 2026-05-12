@@ -28,6 +28,10 @@ Key considerations here include:
 
 - **Material thickness and knurl quality:** Uprights using 11-14 gauge steel (approximately 3/16”–1/4” thickness) offer better durability than thinner variants. Knurling on the pull-up bars or any built-in bars should feel decisive, not too rough, to avoid hand irritation.
 
+
+
+> **See also:** [How to pick the ideal bench for incline and flat workouts](https://gymledger.app/articles/how-to-pick-the-ideal-bench-for-incline-and-flat-workouts/)
+
 ## Step 2: Assemble the Base and Anchor It Properly
 
 Start with the base to maximize stability:

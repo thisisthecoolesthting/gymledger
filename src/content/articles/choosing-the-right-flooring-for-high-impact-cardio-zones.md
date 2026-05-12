@@ -18,6 +18,10 @@ High-impact cardio zone flooring refers to surface materials specifically design
 
 Unlike strength-training zones, where heavier weights and metal equipment dominate, cardio zones demand more cushioning and surface traction. Common examples include rubber tiles, vinyl sheets with EVA foam backing, and interlocking foam mats — each with pros and cons depending on thickness, density, and texture.
 
+
+
+> **See also:** [Home gym flooring options that protect your equipment](https://gymledger.app/articles/home-gym-flooring-options-that-protect-your-equipment/)
+
 ## How It Works: The Science Behind Impact-Resistant Floors
 
 When your feet hit the floor during high-impact cardio, the force can be 2 to 3 times your body weight or more. Without proper flooring, this shock travels through your bones, joints, and muscles, increasing injury risk. Moreover, high-impact force can damage subfloor materials (plywood, concrete, or tile) over time due to repeated compression and abrasion.

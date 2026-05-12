@@ -18,6 +18,10 @@ A kettlebell swing is a dynamic exercise where you hinge at the hips to swing a 
 
 Unlike deadlifts or traditional weightlifting, kettlebell swings use momentum while engaging multiple muscle groups simultaneously, making them efficient for a home gym routine where you want high return on limited floor space and time.
 
+
+
+> **See also:** [Kettlebell workout routines for fat loss at home](https://gymledger.app/articles/kettlebell-workout-routines-for-fat-loss-at-home/)
+
 ## How Kettlebell Swings Work: The Movement Breakdown
 
 The key to a proper kettlebell swing is controlling the momentum via a powerful hip hinge—not a squat or a raise with the arms. Here’s a breakdown of the motion:

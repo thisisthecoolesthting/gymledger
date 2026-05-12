@@ -83,6 +83,10 @@ Below is a ranked list of cardio options optimized for small apartment living. E
 
 ---
 
+
+
+> **See also:** [Top compact racks for efficient home gym organization](https://gymledger.app/articles/top-compact-racks-for-efficient-home-gym-organization/)
+
 ## Quick Comparison Table
 
 | Equipment Type          | Approx. Footprint (sq ft) | Noise Level       | Workout Intensity    | Typical Price Range | Storage Solution                 |

@@ -16,6 +16,10 @@ You’ve invested hundreds or even thousands of dollars into your home gym equip
 
 ---
 
+
+
+> **See also:** [How to build a home gym rack with weight storage](https://gymledger.app/articles/how-to-build-a-home-gym-rack-with-weight-storage/)
+
 ## What Is Gym Flooring and Why Does It Matter for Equipment Longevity?
 
 Gym flooring refers to the protective surface layer installed on the floor where you work out. It acts as a buffer between your equipment and the subfloor (usually concrete, wood, or tile), absorbing impact and reducing vibration. Proper gym flooring prevents:

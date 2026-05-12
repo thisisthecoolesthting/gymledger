@@ -23,6 +23,10 @@ HIIT involves short, intense bursts of exercise followed by brief recovery perio
 
 Not all cardio options are equally suited to HIIT: some machines shine in steady-state endurance training but lack the responsiveness or durability for interval work.
 
+
+
+> **See also:** [Top cardio machines for calorie burning at home](https://gymledger.app/articles/top-cardio-machines-for-calorie-burning-at-home/)
+
 ## How to Choose a Cardio Machine for HIIT at Home
 
 Evaluate machines across these key factors:

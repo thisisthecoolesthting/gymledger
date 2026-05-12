@@ -16,6 +16,10 @@ Rubber flooring is an increasingly popular choice among home gym builders, espec
 
 Rubber flooring is a resilient, durable surface made primarily from natural or synthetic rubber materials. It comes in various forms, including interlocking tiles, rolls, and mats, and is designed to absorb impact, resist wear, and provide traction underfoot. For home gyms, rubber flooring is primarily used to safeguard subfloors like wood, laminate, concrete, or vinyl from heavy equipment damage and high-impact exercises.
 
+
+
+> **See also:** [Home gym flooring options that protect your equipment](https://gymledger.app/articles/home-gym-flooring-options-that-protect-your-equipment/)
+
 ## How Rubber Flooring Works to Protect Your Home Gym
 
 Rubber flooring works through a combination of its physical and material properties:

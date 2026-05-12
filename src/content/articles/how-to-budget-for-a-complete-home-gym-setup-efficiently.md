@@ -24,6 +24,10 @@ Next, clarify your fitness goals:
 
 Defining goals helps filter equipment that best fits your needs without overspending on unused items.
 
+
+
+> **See also:** [Top cardio machines for calorie burning at home](https://gymledger.app/articles/top-cardio-machines-for-calorie-burning-at-home/)
+
 ## Step 2: Prioritize Core Equipment First
 
 Begin your budget allocation with the foundational pieces you’ll use daily. For most home gyms focused on strength and conditioning, that includes:

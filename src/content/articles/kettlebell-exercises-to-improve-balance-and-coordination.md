@@ -23,6 +23,10 @@ Balance refers to your ability to maintain your body’s center of gravity over 
 
 Unlike traditional barbells or machines, kettlebells have a shifted center of mass, requiring more stability and fine motor control during lifts. This makes them ideal for targeting proprioception (your body's sense of position and movement) and joint stability.
 
+
+
+> **See also:** [Kettlebell workouts for improving core strength at home](https://gymledger.app/articles/kettlebell-workouts-for-improving-core-strength-at-home/)
+
 ## How Kettlebell Training Enhances Balance and Coordination
 
 Here’s the mechanism:

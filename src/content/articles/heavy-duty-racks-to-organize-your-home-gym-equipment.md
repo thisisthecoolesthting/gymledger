@@ -25,6 +25,10 @@ High-quality heavy-duty racks take into account:
 - Plate runout to ensure smooth loading/unloading
 - Knurl quality (barbell-specific racks)
 
+
+
+> **See also:** [Top compact racks for efficient home gym organization](https://gymledger.app/articles/top-compact-racks-for-efficient-home-gym-organization/)
+
 ## How Heavy-Duty Racks Work
 
 These racks rely on strong steel tubing typically between 12-14 gauge (2.5-4 mm thickness) for durability and constant heavy use. They incorporate clever space planning: vertical and horizontal dividers, angled arms for bars, peg hooks for loops/kettlebells, and adjustable plate holders. Key functional elements include:

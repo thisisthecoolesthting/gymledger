@@ -16,6 +16,10 @@ If you’ve invested in cardio equipment for your home gym—whether it’s a tr
 
 ---
 
+
+
+> **See also:** [Choosing the right cardio equipment for limited budgets](https://gymledger.app/articles/choosing-the-right-cardio-equipment-for-limited-budgets/)
+
 ## What Cardio Equipment Maintenance Entails
 
 Cardio equipment maintenance involves regularly cleaning, lubricating, inspecting, and adjusting your machines. The types of tasks can vary by equipment type but usually include:

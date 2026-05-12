@@ -18,6 +18,10 @@ Kettlebell exercises engage multiple muscle groups simultaneously but are especi
 
 What sets kettlebell core workouts apart from traditional ab-focused routines is the blend of strength, endurance, balance, and power needed to control the bell. The offset weight and fluid, swinging motions recruit the entire core floor and deep stabilizers far more comprehensively than sit-ups or crunches alone.
 
+
+
+> **See also:** [Kettlebell workout routines for fat loss at home](https://gymledger.app/articles/kettlebell-workout-routines-for-fat-loss-at-home/)
+
 ## How Kettlebell Core Workouts Work
 
 Kettlebell core workouts typically involve exercises that require controlled movement through multiple planes, working to stabilize your torso while the bell moves freely. By holding, swinging, or pressing a kettlebell in specific patterns, your nervous system learns to activate the core more effectively, reducing injury risk from poor posture or weak stabilizers.

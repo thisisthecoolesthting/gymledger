@@ -18,6 +18,10 @@ A foldable weight bench is a piece of gym equipment designed to be collapsible o
 
 Foldable benches come in various configurations: flat benches, adjustable benches with incline/decline positions, or even benches with attachments for leg curls or preacher curls. However, in small spaces, simple foldable benches with good adjustability tend to provide the best balance between functionality and compactness.
 
+
+
+> **See also:** [How to create a multi-use workout area with racks](https://gymledger.app/articles/how-to-create-a-multi-use-workout-area-with-racks/)
+
 ## How Foldable Weight Benches Work
 
 Foldable benches operate on hinge mechanisms that allow the backrest, seat, or even the entire frame to fold up or down. Key components include:

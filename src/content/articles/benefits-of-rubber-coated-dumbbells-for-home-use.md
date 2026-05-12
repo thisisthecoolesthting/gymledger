@@ -18,6 +18,10 @@ Rubber-coated dumbbells are traditional dumbbells with metal plates or heads enc
 
 Rubber coating thickness and quality vary widely across products, impacting durability, grip feel, and even the dumbbells’ storage footprint. They come in various types: fixed-weight pairs and adjustable dumbbells with rubber-coated plates.
 
+
+
+> **See also:** [Benefits of kettlebells for full-body home workouts](https://gymledger.app/articles/benefits-of-kettlebells-for-full-body-home-workouts/)
+
 ## How Rubber-Coated Dumbbells Work and Their Key Benefits
 
 The rubber coating primarily acts as a shock absorber, reducing noise and preventing damage during use, particularly if dumbbells are dropped or set down aggressively on floors.

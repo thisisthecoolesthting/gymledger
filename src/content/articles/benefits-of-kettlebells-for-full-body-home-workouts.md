@@ -16,6 +16,10 @@ Kettlebells are a popular choice for home gym enthusiasts seeking versatile, spa
 
 Kettlebells are cast-iron or steel weights that look like cannonballs with handles. Unlike dumbbells or barbells where the weight hangs evenly on either side of your grip, kettlebells feature an offset center of mass because of the handle placement. This design allows for dynamic, swinging movements that engage more muscles and build power, endurance, and coordination in ways that conventional weights often do not.
 
+
+
+> **See also:** [How to design a home gym with kettlebells and dumbbells](https://gymledger.app/articles/how-to-design-a-home-gym-with-kettlebells-and-dumbbells/)
+
 ## How Kettlebells Enable Full-Body Workouts
 
 The key to kettlebell training’s effectiveness is the integration of multiple movement planes and muscle groups simultaneously. Common kettlebell exercises—swings, cleans, snatches, presses, and goblet squats—recruit muscle chains from your legs through your core to your upper body.

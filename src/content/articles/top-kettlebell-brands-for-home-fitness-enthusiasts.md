@@ -31,6 +31,10 @@ True commercial-grade kettlebells are made from high-strength cast iron or steel
 
 ---
 
+
+
+> **See also:** [Budget-friendly home gym equipment for strength training](https://gymledger.app/articles/budget-friendly-home-gym-equipment-for-strength-training/)
+
 ## Top Kettlebell Brands for Home Fitness Enthusiasts: Ranked and Compared
 
 The table below assesses popular kettlebell brands on the above criteria. Brands here are generically described due to the variety of private-label options but fit the following categories.

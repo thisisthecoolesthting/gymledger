@@ -14,6 +14,10 @@ subtopic: budget
 
 If you’ve got a limited floor area but want to build a versatile, durable home gym rack, figuring out the best way to maximize your small space can be frustrating. You need a solution that balances footprint, functionality, and durability without forcing you into costly commercial-grade equipment or sacrificing key bar and plate quality. This guide is for home gym builders working with real budgets ($500-$5,000) who want to maximize small spaces using compact gym racks while understanding critical specs like floor space, knurl quality, plate load capacity, and warranties.
 
+
+
+> **See also:** [How to build a home gym rack with weight storage](https://gymledger.app/articles/how-to-build-a-home-gym-rack-with-weight-storage/)
+
 ## What Makes a Gym Rack “Compact” for Small Spaces?
 
 A compact home gym rack generally provides key squat, bench, and pull-up functionalities but takes up less floor area than a full commercial power rack or cage. These racks often use:

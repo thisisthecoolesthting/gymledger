@@ -16,6 +16,10 @@ If you're building a home gym on a real budget, one of the biggest challenges is
 
 In a home gym setting, noise primarily comes from two sources: impact noise (such as dropping weights or jumping) and airborne noise (like running on a treadmill or music). Flooring materials need to absorb or minimize these noises to prevent disruption in living spaces and to reduce wear and tear on structural subfloors. The best noise-reducing flooring is a mix of shock absorption (to protect floor and joints) and sound dampening.
 
+
+
+> **See also:** [Home gym flooring options that protect your equipment](https://gymledger.app/articles/home-gym-flooring-options-that-protect-your-equipment/)
+
 ## How Noise-Reducing Flooring Works
 
 Noise reduction in flooring generally works by:

@@ -16,6 +16,10 @@ Weight plates are essential for any home gym setup, but they can quickly become 
 
 Weight plate storage refers to racks, holders, stands, and creative setups designed to organize your plates in a safe, accessible, and space-efficient manner. Proper storage keeps plates off the floor, reducing tripping hazards and making it easier to select and switch weights during your workouts. For home gyms with limited square footage or awkward layouts, choosing the right storage solution can reclaim valuable floor space without sacrificing functionality.
 
+
+
+> **See also:** [Top compact racks for efficient home gym organization](https://gymledger.app/articles/top-compact-racks-for-efficient-home-gym-organization/)
+
 ## How Weight Plate Storage Works
 
 The core principle of a good plate storage solution is to vertically or horizontally stack your plates around a stable base, using minimal floor area while maximizing accessibility. Basic storage designs include:

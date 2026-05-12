@@ -20,6 +20,10 @@ If you're building a home gym on a budget and wrestling with whether to buy stee
 
 Both types have their place. To decide which is best for your home gym, it helps to look carefully at how each material performs with regard to knurl, durability, floor space, feel, and warranty beyond just the sticker price.
 
+
+
+> **See also:** [Pros and cons of fixed vs adjustable dumbbells](https://gymledger.app/articles/pros-and-cons-of-fixed-vs-adjustable-dumbbells/)
+
 ## How Steel and Cast Iron Dumbbells Work
 
 - **Steel Dumbbells** are machined or forged, which allows for high dimensional accuracy, minimal runout (plate wobble), and consistent weight distribution. These qualities optimize balance, grip safety, and lifespan, especially with daily use.

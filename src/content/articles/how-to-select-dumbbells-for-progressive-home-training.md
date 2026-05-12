@@ -22,6 +22,10 @@ Before buying any dumbbells, clearly define your training goals — strength, hy
 
 Identifying your personal progression path will guide you to an appropriate initial weight range and whether adjustable sets or individual pairs better suit your needs.
 
+
+
+> **See also:** [How to create a multi-use workout area with racks](https://gymledger.app/articles/how-to-create-a-multi-use-workout-area-with-racks/)
+
 ## Step 2: Evaluate Available Floor Space and Storage
 
 Home gyms often face spatial constraints, so measure your dedicated workout area before you shop. Dumbbell options include:

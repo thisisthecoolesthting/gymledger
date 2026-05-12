@@ -18,6 +18,10 @@ Barbells and plates are the backbone of any strength setup, and they endure sign
 
 Maintaining your barbell and plates properly protects your investment, maintains a smooth lifting experience, and helps avoid common pitfalls like corrosion, loose sleeves, and damaged bearings.
 
+
+
+> **See also:** [Budget-friendly home gym equipment for strength training](https://gymledger.app/articles/budget-friendly-home-gym-equipment-for-strength-training/)
+
 ## How to Maintain Your Home Gym Barbells and Plates: Step-by-Step
 
 ### 1. Regular Cleaning

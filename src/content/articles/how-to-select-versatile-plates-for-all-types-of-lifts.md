@@ -14,6 +14,10 @@ subtopic: barbells
 
 Choosing the right weight plates can be confusing, especially when you want to build a home gym that suits everything—from Olympic lifts and powerlifting to general strength training and conditioning. You may find yourself wondering whether to invest in bumper plates, iron plates, or some hybrid alternative. The biggest challenge is finding plates that balance durability, floor protection, and accurate weight for various lifting styles, all while fitting your budget and available floor space. This guide breaks down exactly what to look for so you can pick versatile plates that serve all your lifting needs without overpaying or compromising workout quality.
 
+
+
+> **See also:** [Essential weight plate types for multifunctional home gyms](https://gymledger.app/articles/essential-weight-plate-types-for-multifunctional-home-gyms/)
+
 ## What Are Versatile Plates?
 
 Versatile plates are weight plates designed to accommodate multiple lifting modalities. This means they can be used comfortably and safely for:

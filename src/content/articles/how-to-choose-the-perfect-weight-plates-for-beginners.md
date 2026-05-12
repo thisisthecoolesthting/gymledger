@@ -18,6 +18,10 @@ Weight plates are the primary means by which you adjust resistance on barbells, 
 
 For beginners, choosing the right plates sets the foundation for consistent progress and gym longevity. Poorly made plates can lead to issues like plates sticking to bars (underestimated friction), excessive noise, and even damage to flooring due to uneven weight distribution. Quality plates will also match well with your bar in terms of the diameter of the center hole (standard 1-inch vs Olympic 2-inch sleeves) and will maintain knurl marks and weight accuracy over time.
 
+
+
+> **See also:** [Budget-friendly home gym equipment for strength training](https://gymledger.app/articles/budget-friendly-home-gym-equipment-for-strength-training/)
+
 ## Step 1: Understand Plate Types and Material
 
 Weight plates come in various materials and finishes, which affect durability, feel, and home-floor compatibility:

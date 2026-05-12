@@ -20,6 +20,10 @@ Adjustable dumbbells replace multiple fixed weights with a single dumbbell handl
 
 The dumbbell handle features a locking system that secures weight plates. When you engage the selector mechanism, only the chosen number of plates lock onto the handle, while unselected plates remain in the stand. This mechanism reduces the need for multiple dumbbells but hinges on the precision and robustness of the selector system to avoid dropping plates mid-workout.
 
+
+
+> **See also:** [Selecting the best adjustable dumbbells for home workouts](https://gymledger.app/articles/selecting-the-best-adjustable-dumbbells-for-home-workouts/)
+
 ## Why Adjustable Dumbbells Are Ideal for Small Spaces
 
 - **Minimal Floor Footprint:** Multiple dumbbells require a rack or floor space that quickly escalates as your collection grows. Adjustable dumbbells take up space equivalent to just two dumbbells.

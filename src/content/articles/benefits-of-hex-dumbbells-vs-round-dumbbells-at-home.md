@@ -20,6 +20,10 @@ Hex dumbbells get their name from their six-sided shape on each end of the handl
 ### Round Dumbbells
 Round dumbbells have cylindrical, fully rounded plates on each side of the handle. They can be fixed weights or adjustable via removable plates. Round dumbbells are classic and often reflect commercial gym standards. However, because their shape is fully round, they tend to roll easily unless stored on dedicated racks or stands.
 
+
+
+> **See also:** [Pros and cons of fixed vs adjustable dumbbells](https://gymledger.app/articles/pros-and-cons-of-fixed-vs-adjustable-dumbbells/)
+
 ## How Does the Dumbbell Shape Affect Your Home Workout?
 
 Here’s why shape matters beyond aesthetics. The dumbbell’s design impacts floor space usage, stability, safety, and versatility.

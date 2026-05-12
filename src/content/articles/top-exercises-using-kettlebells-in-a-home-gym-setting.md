@@ -18,6 +18,10 @@ Kettlebells are cast iron or steel weights with a handle used for ballistic exer
 
 In a home gym, kettlebells are a compact, versatile tool that can replace or complement larger equipment while supporting compound, full-body movements. Their small footprint takes up less floor space than barbells, and their ability to be used for both strength and aerobic work makes them perfect for budgets and spaces ranging from a corner in an apartment to a dedicated gym room.
 
+
+
+> **See also:** [Kettlebell workout routines for fat loss at home](https://gymledger.app/articles/kettlebell-workout-routines-for-fat-loss-at-home/)
+
 ## How Kettlebell Exercises Work in Home Settings
 
 - **Minimal Floor Space:** Most kettlebell exercises require only a few square feet, ideal for small to medium home gyms.

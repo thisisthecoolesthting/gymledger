@@ -16,6 +16,10 @@ Measuring your home gym space accurately is one of the most overlooked yet criti
 
 A home gym rack isn’t just a piece of equipment; it’s a permanent fixture that dictates how and whether you can effectively train at home. Overestimating space can lead to cramped workouts or even unsafe lifting conditions, while underestimating it might cause you to buy a rack that won’t fit or won’t leave enough room for essential movements like squats or bench presses. Beyond the rack’s footprint, consider floor space for barbell movement, storage, and additional equipment.
 
+
+
+> **See also:** [How to build a home gym rack with weight storage](https://gymledger.app/articles/how-to-build-a-home-gym-rack-with-weight-storage/)
+
 ## How to Measure Your Space for a Home Gym Rack: Step-by-Step
 
 ### 1. Identify the Room and Location

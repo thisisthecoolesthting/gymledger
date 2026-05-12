@@ -23,6 +23,10 @@ Organizing your plates and barbells means:
 - Maximizing your home gym’s footprint.
 - Minimizing injury risks from equipment mishandling or clutter.
 
+
+
+> **See also:** [Heavy-duty racks to organize your home gym equipment](https://gymledger.app/articles/heavy-duty-racks-to-organize-your-home-gym-equipment/)
+
 ## The Challenge: Home vs Commercial-Grade Equipment
 
 Commercial gyms often have ample floor space, dedicated racks designed for various plate sizes, and sophisticated bar storage solutions. At home, budgets and space are limited, leaving you with:

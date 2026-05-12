@@ -26,6 +26,10 @@ Before diving into the how-tos, it helps to understand the typical limitations o
   
 DIY upgrades tackle these points by improving comfort, safety, equipment handling, and ultimately your workout experience.
 
+
+
+> **See also:** [How to build a home gym rack with weight storage](https://gymledger.app/articles/how-to-build-a-home-gym-rack-with-weight-storage/)
+
 ## Easy DIY Upgrades You Can Do in 5 Steps
 
 ### 1. Enhance Bench Padding and Upholstery

@@ -16,6 +16,10 @@ If you're reading this, chances are you’ve invested in a home squat rack or ar
 
 ---
 
+
+
+> **See also:** [Choosing the right squat rack for limited space](https://gymledger.app/articles/choosing-the-right-squat-rack-for-limited-space/)
+
 ## What Is a Home Squat Rack?
 
 A squat rack is a piece of gym equipment designed for safely performing squats, overhead presses, and other barbell movements by providing adjustable safety catches and support stands. Home squat racks range from basic power racks with four vertical uprights to half racks and squat stands with two posts.

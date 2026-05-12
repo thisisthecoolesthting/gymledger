@@ -26,6 +26,10 @@ Optimizing your rack layout means considering:
 
 Optimizing upfront helps prevent costly mistakes, frustration, and injury risks.
 
+
+
+> **See also:** [Choosing the right squat rack for limited space](https://gymledger.app/articles/choosing-the-right-squat-rack-for-limited-space/)
+
 ## Step 1: Measure and Define Your Space
 
 Begin by measuring your workout area’s dimensions accurately—length, width, and ceiling height. Mind obstacles like doors, windows, vents, and electrical outlets. Note the flooring type, as certain racks require anchoring or additional floor protection.

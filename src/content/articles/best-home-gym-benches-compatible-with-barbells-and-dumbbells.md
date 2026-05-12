@@ -22,6 +22,10 @@ At its core, a bench compatible with both barbells and dumbbells must support a 
 
 Let's explore what specs truly matter.
 
+
+
+> **See also:** [Best barbells for home gyms under $200 in 2024](https://gymledger.app/articles/best-barbells-for-home-gyms-under-200-in-2024/)
+
 ## Key Features to Prioritize
 
 ### 1. Sturdy Frame and Anchor Footprint

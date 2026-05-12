@@ -24,6 +24,10 @@ Home gym flooring isn’t just about aesthetics or cushioning. When dealing with
 
 Understanding these functional requirements informs your choice of material and installation method.
 
+
+
+> **See also:** [How to choose the perfect weight plates for beginners](https://gymledger.app/articles/how-to-choose-the-perfect-weight-plates-for-beginners/)
+
 ## How Different Flooring Types Handle Heavy Barbell Use
 
 ### 1. Solid Rubber Mats (3/4" to 1" thick)

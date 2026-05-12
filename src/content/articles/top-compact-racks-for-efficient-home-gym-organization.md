@@ -23,6 +23,10 @@ Efficient home gym organization hinges on the right compact rack because it:
 - Prevents damage and wear by keeping equipment off the floor.
 - Helps maintain a tidy, motivating workout environment.
 
+
+
+> **See also:** [Weight plate storage ideas to save space efficiently](https://gymledger.app/articles/weight-plate-storage-ideas-to-save-space-efficiently/)
+
 ## How Compact Racks Work
 
 Compact racks use clever design and engineering to balance stability with space-saving. They typically have:

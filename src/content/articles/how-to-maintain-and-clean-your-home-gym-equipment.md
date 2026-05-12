@@ -23,6 +23,10 @@ Home gyms are investments not only of money but also floor space and your person
 
 Taking 15-30 minutes monthly—or weekly for high-use equipment—preserves function and appearance. It also avoids more costly repairs and replacements, ensuring your home gym remains a motivating and efficient setup.
 
+
+
+> **See also:** [Top exercises using kettlebells in a home gym setting](https://gymledger.app/articles/top-exercises-using-kettlebells-in-a-home-gym-setting/)
+
 ## Step 1: Gather the Right Supplies
 
 Avoid general household cleaners that can harm metal finishes or degrade plastics and padding. Instead, use:

@@ -24,6 +24,10 @@ Not all knurling is created equal. The depth, sharpness, and consistency of the 
 
 A good knurled grip on a budget barbell invites consistent training and prevents grip issues that slow progress.
 
+
+
+> **See also:** [Best barbells for home gyms under $200 in 2024](https://gymledger.app/articles/best-barbells-for-home-gyms-under-200-in-2024/)
+
 ## Key Specs That Define Budget Barbells for Beginners
 
 When evaluating budget barbells, several technical features affect quality and user experience:

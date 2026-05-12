@@ -26,6 +26,10 @@ Weight plates are the core resistance elements used on barbells, dumbbells, and 
 
 With high-end commercial plates designed for continuous gym use versus more functional, budget-friendly plates for home use, understanding the trade-offs upfront will save both money and headache.
 
+
+
+> **See also:** [Best plates for deadlifts and powerlifting at home](https://gymledger.app/articles/best-plates-for-deadlifts-and-powerlifting-at-home/)
+
 ## Common Types of Weight Plates for Home Gyms
 
 ### 1. Cast Iron Plates

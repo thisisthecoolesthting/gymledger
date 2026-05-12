@@ -23,6 +23,10 @@ Floor space is the most critical factor when planning a kettlebell and dumbbell 
 ### Practical step:
 Measure your chosen workout zone, then buy mats slightly larger than this area to protect floors and create a firm exercise platform. For heavier kettlebells (over 50 lbs) or dropped dumbbells, consider adding a plywood substrate beneath rubber mats for added rigidity.
 
+
+
+> **See also:** [Choosing the right cardio equipment for limited budgets](https://gymledger.app/articles/choosing-the-right-cardio-equipment-for-limited-budgets/)
+
 ## 2. Select Your Kettlebells and Dumbbells Based on Real-Use Criteria
 
 When choosing kettlebells and dumbbells, many buyers stumble over the marketing hype between “home-grade,” “commercial-grade,” and “pro-grade” gear. The main differences lie in materials, finish, knurl quality (grip texture), and long-term durability.

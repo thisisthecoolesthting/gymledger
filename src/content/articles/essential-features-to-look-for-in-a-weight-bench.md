@@ -16,6 +16,10 @@ If you’re building a home gym on a budget and want a weight bench that fits yo
 
 A weight bench is the foundation of many strength training routines—from bench presses and dumbbell rows to seated shoulder presses and core work. It supports your body through various angles and positions to target different muscle groups effectively. Choosing the right bench ensures your workouts are comfortable, safe, and efficient without wasting floor space or breaking the bank.
 
+
+
+> **See also:** [How to build a compact home gym with racks](https://gymledger.app/articles/how-to-build-a-compact-home-gym-with-racks/)
+
 ## How Does a Weight Bench Work?
 
 Weight benches work by providing a stable, sturdy platform that supports your body while you lift free weights or use a barbell. They typically have a padded surface and an adjustable backrest that allows for incline, flat, or decline positions. The bench must withstand heavy loads from your body weight plus weights lifted, preventing it from wobbling or tipping.

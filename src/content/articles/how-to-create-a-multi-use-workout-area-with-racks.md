@@ -16,6 +16,10 @@ Creating a multi-use workout area with racks can be challenging when you have li
 
 The rack is the centerpiece of most strength training setups. Whether you’re doing squats, bench presses, pull-ups, or barbell rows, a well-designed rack maximizes your workout options without needing multiple bulky pieces of equipment. Free weights require a safe structure, and some racks come with space-saving attachments like dip bars or pull-up handles. Ideally, you want a rack that fits your available floor space, has strong knurling on the barbell, and allows you to store plates conveniently nearby.
 
+
+
+> **See also:** [How to build a home gym rack with weight storage](https://gymledger.app/articles/how-to-build-a-home-gym-rack-with-weight-storage/)
+
 ## Step 1: Measure Your Available Floor Space and Plan Your Layout
 
 Before picking any rack or attachments, measure the floor space you can dedicate to your workout area.

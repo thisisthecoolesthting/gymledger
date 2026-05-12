@@ -18,6 +18,10 @@ This article breaks down the real considerations for home-gym builders on a budg
 
 ---
 
+
+
+> **See also:** [How to incorporate cardio and strength equipment in one space](https://gymledger.app/articles/how-to-incorporate-cardio-and-strength-equipment-in-one-space/)
+
 ## What Is Cardio Equipment and What Is Strength Equipment?
 
 **Cardio equipment** encompasses machines or tools designed primarily to elevate heart rate, improve aerobic capacity, and support calorie burning over extended periods. This category includes:

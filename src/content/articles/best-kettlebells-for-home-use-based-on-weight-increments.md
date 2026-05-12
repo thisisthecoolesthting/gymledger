@@ -24,6 +24,10 @@ The right weight increments give you:
 
 This article evaluates kettlebell types and sets in terms of their weight increment strategies, durability, handle comfort, and overall value for home gyms ranging from entry-level to intermediate lifters.
 
+
+
+> **See also:** [Choosing the right cardio equipment for limited budgets](https://gymledger.app/articles/choosing-the-right-cardio-equipment-for-limited-budgets/)
+
 ## What To Consider When Choosing Kettlebell Increments
 
 Before looking at specific options, keep in mind these core criteria:

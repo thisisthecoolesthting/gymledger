@@ -26,6 +26,10 @@ When selecting cardio equipment for home gyms, several characteristics matter mo
 - **Adjustability and Features:** While fancy tech is nice, prioritize ease of use and accuracy in resistance or speed settings.
 - **Assembly and Maintenance:** Simpler assembly and less frequent maintenance are desirable for home owners, who likely aren’t professional gym managers.
 
+
+
+> **See also:** [Top cardio machines for calorie burning at home](https://gymledger.app/articles/top-cardio-machines-for-calorie-burning-at-home/)
+
 ## Top Affordable Cardio Machines for Home Gyms
 
 Here we explore four popular cardio machine types, each with options typically under $5,000. You’ll learn how they work, ideal use cases, and limitations to watch for.

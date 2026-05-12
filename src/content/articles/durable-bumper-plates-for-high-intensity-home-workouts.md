@@ -16,6 +16,10 @@ High-intensity home workouts demand reliable equipment, especially when it comes
 
 Bumper plates are weight plates made from dense rubber or urethane that allow you to safely drop a loaded barbell during lifts like deadlifts, cleans, and snatches. Unlike traditional iron plates, bumper plates minimize damage to floors and reduce noise when dropped. They are essential for high-intensity workouts involving Olympic lifting or CrossFit-style training where dropping the barbell is frequent.
 
+
+
+> **See also:** [Choosing budget-friendly flooring for multi-purpose home gyms](https://gymledger.app/articles/choosing-budget-friendly-flooring-for-multi-purpose-home-gyms/)
+
 ## How Durable Bumper Plates Work
 
 Durability in bumper plates hinges primarily on the quality of materials and manufacturing:

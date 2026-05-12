@@ -66,6 +66,10 @@ In this guide, we’ll break down flooring types, budgets, installation, and how
 - **Pros:** Durable, customizable size/thickness, good for barbell workouts
 - **Cons:** No shock absorption, can damage floors if unsupported
 
+
+
+> **See also:** [Top flooring materials for noise reduction in home gyms](https://gymledger.app/articles/top-flooring-materials-for-noise-reduction-in-home-gyms/)
+
 ## Key Considerations For Your Home Gym Flooring Choice
 
 ### Anchor in Available Floor Space

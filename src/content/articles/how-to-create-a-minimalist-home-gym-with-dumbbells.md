@@ -20,6 +20,10 @@ You’ll want to avoid pitfalls like poorly made dumbbells with bad knurling (af
 
 ---
 
+
+
+> **See also:** [How to choose cardio machines for HIIT workouts at home](https://gymledger.app/articles/how-to-choose-cardio-machines-for-hiit-workouts-at-home/)
+
 ## Step 1: Calculating Your Floor Space and Anchoring Your Setup
 
 Before buying equipment, measure the dedicated gym area carefully. A minimalist dumbbell gym typically needs **10–20 square feet** for a rack (if used) plus space for movement during workouts (like lunges, squats, and presses). Anchor your setup near a wall or in a corner to optimize open floor space.

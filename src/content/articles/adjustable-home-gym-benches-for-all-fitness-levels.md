@@ -18,6 +18,10 @@ An adjustable gym bench is a weight bench with a backrest (and sometimes a seat)
 
 For home gyms, the key distinction is between commercial-grade benches designed for heavy daily use in gyms and home-grade benches built for occasional personal workouts. Home benches often prioritize compactness and weight more than high-heavy-duty ratings, but a good mid-range bench can handle well over 500 lbs of combined user and load weight if built with quality materials.
 
+
+
+> **See also:** [Adjustable benches for versatile home workout routines](https://gymledger.app/articles/adjustable-benches-for-versatile-home-workout-routines/)
+
 ## How Adjustable Benches Work
 
 The core components of an adjustable bench are:

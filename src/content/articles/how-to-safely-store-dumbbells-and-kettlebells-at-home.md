@@ -24,6 +24,10 @@ Because home gyms usually have less dedicated space than commercial gyms, invest
 
 ---
 
+
+
+> **See also:** [Top exercises using kettlebells in a home gym setting](https://gymledger.app/articles/top-exercises-using-kettlebells-in-a-home-gym-setting/)
+
 ## How to Safely Store Dumbbells and Kettlebells at Home: Step-by-Step
 
 ### 1. Assess Your Inventory and Space

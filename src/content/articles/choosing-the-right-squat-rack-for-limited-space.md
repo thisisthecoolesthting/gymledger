@@ -23,6 +23,10 @@ The size of a squat rack varies widely — from full power racks that weigh hund
 
 When space is tight, your focus shifts from features you want to features you can actually fit. That includes how much floor space the base takes up, the total height of the rack (for overhead pressing and pull-ups), and how stable it remains on your floor.
 
+
+
+> **See also:** [Top cardio machines for calorie burning at home](https://gymledger.app/articles/top-cardio-machines-for-calorie-burning-at-home/)
+
 ## How Squat Rack Design Affects Floor Space
 
 ### 1. Base Footprint (Anchor Points)

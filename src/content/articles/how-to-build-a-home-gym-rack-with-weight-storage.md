@@ -20,6 +20,10 @@ For weight storage, racks typically require 12-24 inches more width for plate tr
 
 **Tip:** Anchor your rack to the floor if possible. Even if your floor is concrete or wooden, secure anchoring reduces sway. Unanchored racks often feel less stable when lifting, which affects confidence and safety.
 
+
+
+> **See also:** [How to build a home gym rack from scratch](https://gymledger.app/articles/how-to-build-a-home-gym-rack-from-scratch/)
+
 ## Step 2: Select Rack Frame Materials and Build for Stability
 
 You want a rack frame that lasts, supports at least 700 lbs safely (ideally 1,000 lbs if you plan to powerlift), and doesn’t wobble. Commercial-grade racks use 11-14 gauge steel at 2"x2" or 3"x3" tubing with welded joints and powder coating.

@@ -21,6 +21,10 @@ Most off-the-shelf racks are designed either for commercial gymsâ€”meaning theyâ
 - Include features like adjustable safeties, J-cups, and plate storage.
 - Avoid the markup on brand-name, commercial-grade cages.
 
+
+
+> **See also:** [How to build a home gym rack with weight storage](https://gymledger.app/articles/how-to-build-a-home-gym-rack-with-weight-storage/)
+
 ## Key Considerations Before You Start
 
 Before buying materials or drafting plans, understand these foundational aspects that differentiate a stable, safe rack from the ones you erect once and ditch:

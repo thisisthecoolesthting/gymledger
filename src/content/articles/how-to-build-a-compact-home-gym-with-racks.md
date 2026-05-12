@@ -22,6 +22,10 @@ Before you start hunting gear or browsing online, measure your workout area care
 
 Map out your gym area on paper or a digital tool, marking dimensions and outlets, vents, or obstacles. This step prevents buying a rack that won’t fit or blocks access.
 
+
+
+> **See also:** [Budget-friendly home gym equipment for strength training](https://gymledger.app/articles/budget-friendly-home-gym-equipment-for-strength-training/)
+
 ## Step 2: Choose the Right Type of Rack for Your Goals and Space
 
 There are several types of racks suitable for home gyms:

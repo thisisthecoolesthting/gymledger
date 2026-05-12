@@ -20,6 +20,10 @@ Proper flooring doesn’t just safeguard the floor itself from dents, cracks, or
 
 A poorly chosen flooring can create uneven footing, increase slipping risks, or hasten equipment degradation, ultimately costing more in repairs or replacements. Choosing the right home gym flooring involves balancing performance, durability, cost, and the specific types of activities you plan to do.
 
+
+
+> **See also:** [Top flooring materials for noise reduction in home gyms](https://gymledger.app/articles/top-flooring-materials-for-noise-reduction-in-home-gyms/)
+
 ## How Home Gym Flooring Works
 
 Home gym flooring options differ primarily in the materials used, their thickness, density, and installation methods. The best solutions absorb shock (from dropped weights or jumping), resist moisture (to prevent mold or warping), and provide sufficient grip for exercises like lifting or aerobic workouts.

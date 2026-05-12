@@ -16,6 +16,10 @@ Building a solid home gym for strength training on a budget can feel overwhelmin
 
 At its core, this equipment category includes foundational pieces that allow you to perform key compound and isolation exercises—think squats, deadlifts, presses, rows, and curls. The equipment must be sturdy enough to handle regular use with heavier weights but doesn't need to be "pro" or commercial-grade, which dramatically drives up cost and usually requires more floor space. Quality knurling on barbells, plates with minimal runout, stable racks, and sound warranties differentiate equipment that lasts from cheap flimsies. Let's break down the core pieces.
 
+
+
+> **See also:** [How to build a compact home gym with racks](https://gymledger.app/articles/how-to-build-a-compact-home-gym-with-racks/)
+
 ## How Budget-Friendly Strength Equipment Works
 
 ### Barbells and Plates

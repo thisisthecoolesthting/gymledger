@@ -26,6 +26,10 @@ The foundation of your build starts with understanding exactly how much floor sp
 
 ---
 
+
+
+> **See also:** [Budget-friendly home gym equipment for strength training](https://gymledger.app/articles/budget-friendly-home-gym-equipment-for-strength-training/)
+
 ## Step 2: Prioritize Core Equipment That Delivers Versatility
 
 When money is limited, it’s crucial to focus on the minimum viable equipment for strength, stability, and flexibility. Each piece should cover multiple workouts.

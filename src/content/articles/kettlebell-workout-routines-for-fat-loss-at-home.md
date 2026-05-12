@@ -23,6 +23,10 @@ To understand which kettlebell workouts help with fat loss, it’s important to 
 - **Circuit or Interval Format:** This maintains calorie burn and metabolic boost over a longer period.
 - **Scalable Weight & Volume:** Pick a kettlebell weight that challenges you but allows for good form across reps.
 
+
+
+> **See also:** [Top exercises using kettlebells in a home gym setting](https://gymledger.app/articles/top-exercises-using-kettlebells-in-a-home-gym-setting/)
+
 ## How Kettlebell Fat Loss Routines Work
 
 Kettlebell workouts blend strength and cardio, which both contribute to fat loss but in slightly different ways. Strength training helps preserve or build muscle mass, which is metabolically active tissue that improves resting calorie burn. The cardio and interval aspects trigger heart rate elevation, increasing caloric expenditure during and after your session.

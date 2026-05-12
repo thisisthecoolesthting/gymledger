@@ -16,6 +16,10 @@ If you’re building a home gym on a real budget and limited square footage, one
 
 This guide breaks down the principles and step-by-step strategies you need to combine cardio and strength setups smoothly in one home gym room or corner, focusing on smart equipment choices, efficient layout, and considerations like knurl quality, plate runout, warranty fine print, and the gap between commercial-grade and home-grade specs.
 
+
+
+> **See also:** [How to maximize small spaces with compact home gym racks](https://gymledger.app/articles/how-to-maximize-small-spaces-with-compact-home-gym-racks/)
+
 ## Step 1: Measure Your Space and Prioritize Your Training Goals
 
 Before you pick or move any equipment, you must have accurate measurements of your available floor space—including ceiling height, door clearance, and any obstructions like windows or vents.
