@@ -7,36 +7,36 @@ export default {
     extend: {
       colors: {
         cream: {
-          50: "#F5F5F5",
-          100: "#EBEBEB",
-          200: "#D6D6D6",
+          50: "#FFF7ED",
+          100: "#F5EDE4",
+          200: "#E6DED5",
         },
         terracotta: {
-          400: "#16213E",
-          500: "#1A1A2E",
-          600: "#0F0F1A",
+          400: "#DD4231",
+          500: "#C0392B",
+          600: "#9D2F23",
         },
-        primary: { DEFAULT: "#1A1A2E" },
-        accent: { DEFAULT: "#E94560" },
+        primary: { DEFAULT: "#5B1115" },
+        accent: { DEFAULT: "#C0392B" },
         sage: { 400: "#8FA888", 500: "#6F8B6A", 600: "#566F52" },
         rose: { deep: "#0F0F1A" },
         ink: {
-          900: "#0F0F1A",
-          700: "#4A4340",
-          500: "#6E6863",
+          900: "#0B1120",
+          700: "#334155",
+          500: "#64748B",
         },
       },
       maxWidth: {
         prose: "68ch",
       },
-      typography: {
+            typography: {
         DEFAULT: { css: { maxWidth: "68ch" } },
         ink: { css: { color: "#4A4340" } },
       },
       fontFamily: {
-        display: ['Space Grotesk', "Georgia", "serif"],
-        sans: ['Inter', "system-ui", "sans-serif"],
-        body: ['Inter', "sans-serif"],
+        display: ['Oswald', "Georgia", "serif"],
+        sans: ['Roboto', "system-ui", "sans-serif"],
+        body: ['Roboto', "sans-serif"],
         mono: ['JetBrains Mono', "monospace"],
       },
     },
