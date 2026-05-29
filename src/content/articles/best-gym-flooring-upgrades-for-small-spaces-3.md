@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing gym-flooring with fewer
 publishedAt: '2026-05-08'
 pubDate: '2026-05-08'
 updatedAt: '2026-05-04'
-heroImage: ''
+heroImage: /images/hero/best-gym-flooring-upgrades-for-small-spaces-3.jpg
 excerpt: A practical, buyer-focused guide to comparing gym-flooring options for gymledger.app.
 pillarSlug: gym-flooring
 relatedProducts: []

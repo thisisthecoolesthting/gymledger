@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing power-racks with fewer 
 publishedAt: '2026-05-04'
 pubDate: '2026-05-04'
 updatedAt: '2026-05-06'
-heroImage: ''
+heroImage: /images/hero/power-racks-setup-checklist-for-beginners-2.jpg
 excerpt: A practical, buyer-focused guide to comparing power-racks options for gymledger.app.
 pillarSlug: power-racks
 relatedProducts: []

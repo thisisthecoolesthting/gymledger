@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing gym-flooring with fewer
 publishedAt: '2026-05-06'
 pubDate: '2026-05-06'
 updatedAt: '2026-05-08'
-heroImage: ''
+heroImage: /images/hero/gym-flooring-essentials-for-weekend-projects.jpg
 excerpt: A practical, buyer-focused guide to comparing gym-flooring options for gymledger.app.
 pillarSlug: gym-flooring
 relatedProducts: []

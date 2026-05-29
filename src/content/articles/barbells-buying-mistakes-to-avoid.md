@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing barbells with fewer reg
 publishedAt: '2026-05-09'
 pubDate: '2026-05-09'
 updatedAt: '2026-05-10'
-heroImage: ''
+heroImage: /images/hero/barbells-buying-mistakes-to-avoid.jpg
 excerpt: A practical, buyer-focused guide to comparing barbells options for gymledger.app.
 pillarSlug: barbells
 relatedProducts: []

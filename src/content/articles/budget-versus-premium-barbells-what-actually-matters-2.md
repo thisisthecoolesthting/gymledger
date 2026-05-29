@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing barbells with fewer reg
 publishedAt: '2026-05-08'
 pubDate: '2026-05-08'
 updatedAt: '2026-05-06'
-heroImage: ''
+heroImage: /images/hero/budget-versus-premium-barbells-what-actually-matters-2.jpg
 excerpt: A practical, buyer-focused guide to comparing barbells options for gymledger.app.
 pillarSlug: barbells
 relatedProducts: []

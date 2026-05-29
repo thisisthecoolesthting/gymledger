@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing kettlebells with fewer 
 publishedAt: '2026-05-04'
 pubDate: '2026-05-04'
 updatedAt: '2026-05-01'
-heroImage: ''
+heroImage: /images/hero/kettlebells-essentials-for-weekend-projects-3.jpg
 excerpt: A practical, buyer-focused guide to comparing kettlebells options for gymledger.app.
 pillarSlug: kettlebells
 relatedProducts: []

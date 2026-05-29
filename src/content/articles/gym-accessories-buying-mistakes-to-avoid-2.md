@@ -1,13 +1,11 @@
 ---
 title: gym-accessories buying mistakes to avoid (2)
-metaDescription: A practical GymLedger guide to choosing gym-accessories with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing gym-accessories with fewer regrets.
 publishedAt: '2026-05-06'
 pubDate: '2026-05-06'
 updatedAt: '2026-05-07'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing gym-accessories options for
-  gymledger.app.
+heroImage: /images/hero/gym-accessories-buying-mistakes-to-avoid-2.jpg
+excerpt: A practical, buyer-focused guide to comparing gym-accessories options for gymledger.app.
 pillarSlug: gym-accessories
 relatedProducts: []
 status: published

@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing dumbbells with fewer re
 publishedAt: '2026-05-09'
 pubDate: '2026-05-09'
 updatedAt: '2026-05-10'
-heroImage: ''
+heroImage: /images/hero/best-dumbbells-upgrades-for-small-spaces.jpg
 excerpt: A practical, buyer-focused guide to comparing dumbbells options for gymledger.app.
 pillarSlug: dumbbells
 relatedProducts: []

@@ -1,13 +1,11 @@
 ---
 title: Storage and maintenance tips for resistance-bands
-metaDescription: A practical GymLedger guide to choosing resistance-bands with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing resistance-bands with fewer regrets.
 publishedAt: '2026-05-03'
 pubDate: '2026-05-03'
 updatedAt: '2026-05-08'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing resistance-bands options for
-  gymledger.app.
+heroImage: /images/hero/storage-and-maintenance-tips-for-resistance-bands.jpg
+excerpt: A practical, buyer-focused guide to comparing resistance-bands options for gymledger.app.
 pillarSlug: resistance-bands
 relatedProducts: []
 status: published

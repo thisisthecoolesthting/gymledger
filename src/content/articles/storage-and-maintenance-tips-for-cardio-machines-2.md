@@ -1,13 +1,11 @@
 ---
 title: Storage and maintenance tips for cardio-machines (2)
-metaDescription: A practical GymLedger guide to choosing cardio-machines with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing cardio-machines with fewer regrets.
 publishedAt: '2026-05-03'
 pubDate: '2026-05-03'
 updatedAt: '2026-05-05'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing cardio-machines options for
-  gymledger.app.
+heroImage: /images/hero/storage-and-maintenance-tips-for-cardio-machines-2.jpg
+excerpt: A practical, buyer-focused guide to comparing cardio-machines options for gymledger.app.
 pillarSlug: cardio-machines
 relatedProducts: []
 status: published

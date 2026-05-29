@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing benches with fewer regr
 publishedAt: '2026-05-03'
 pubDate: '2026-05-03'
 updatedAt: '2026-05-01'
-heroImage: ''
+heroImage: /images/hero/storage-and-maintenance-tips-for-benches-3.jpg
 excerpt: A practical, buyer-focused guide to comparing benches options for gymledger.app.
 pillarSlug: benches
 relatedProducts: []

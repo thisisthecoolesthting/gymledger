@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing power-racks with fewer 
 publishedAt: '2026-05-01'
 pubDate: '2026-05-01'
 updatedAt: '2026-05-02'
-heroImage: ''
+heroImage: /images/hero/when-to-replace-your-power-racks-gear-3.jpg
 excerpt: A practical, buyer-focused guide to comparing power-racks options for gymledger.app.
 pillarSlug: power-racks
 relatedProducts: []

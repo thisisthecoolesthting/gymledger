@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing pull-up-bars with fewer
 publishedAt: '2026-05-08'
 pubDate: '2026-05-08'
 updatedAt: '2026-05-07'
-heroImage: ''
+heroImage: /images/hero/best-pull-up-bars-upgrades-for-small-spaces-2.jpg
 excerpt: A practical, buyer-focused guide to comparing pull-up-bars options for gymledger.app.
 pillarSlug: pull-up-bars
 relatedProducts: []

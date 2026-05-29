@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing dumbbells with fewer re
 publishedAt: '2026-05-06'
 pubDate: '2026-05-06'
 updatedAt: '2026-05-02'
-heroImage: ''
+heroImage: /images/hero/dumbbells-setup-checklist-for-beginners-3.jpg
 excerpt: A practical, buyer-focused guide to comparing dumbbells options for gymledger.app.
 pillarSlug: dumbbells
 relatedProducts: []

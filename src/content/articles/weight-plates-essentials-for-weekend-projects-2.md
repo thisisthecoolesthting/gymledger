@@ -1,11 +1,10 @@
 ---
 title: weight-plates essentials for weekend projects (2)
-metaDescription: A practical GymLedger guide to choosing weight-plates with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing weight-plates with fewer regrets.
 publishedAt: '2026-05-01'
 pubDate: '2026-05-01'
 updatedAt: '2026-05-04'
-heroImage: ''
+heroImage: /images/hero/weight-plates-essentials-for-weekend-projects-2.jpg
 excerpt: A practical, buyer-focused guide to comparing weight-plates options for gymledger.app.
 pillarSlug: weight-plates
 relatedProducts: []

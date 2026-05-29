@@ -1,13 +1,11 @@
 ---
 title: A practical cardio-machines gift guide (3)
-metaDescription: A practical GymLedger guide to choosing cardio-machines with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing cardio-machines with fewer regrets.
 publishedAt: '2026-05-10'
 pubDate: '2026-05-10'
 updatedAt: '2026-05-01'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing cardio-machines options for
-  gymledger.app.
+heroImage: /images/hero/a-practical-cardio-machines-gift-guide-3.jpg
+excerpt: A practical, buyer-focused guide to comparing cardio-machines options for gymledger.app.
 pillarSlug: cardio-machines
 relatedProducts: []
 status: published

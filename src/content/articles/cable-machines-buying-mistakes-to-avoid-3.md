@@ -1,13 +1,11 @@
 ---
 title: cable-machines buying mistakes to avoid (3)
-metaDescription: A practical GymLedger guide to choosing cable-machines with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing cable-machines with fewer regrets.
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-03'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing cable-machines options for
-  gymledger.app.
+heroImage: /images/hero/cable-machines-buying-mistakes-to-avoid-3.jpg
+excerpt: A practical, buyer-focused guide to comparing cable-machines options for gymledger.app.
 pillarSlug: cable-machines
 relatedProducts: []
 status: published

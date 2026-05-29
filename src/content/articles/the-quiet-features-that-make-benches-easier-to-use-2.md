@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing benches with fewer regr
 publishedAt: '2026-05-02'
 pubDate: '2026-05-02'
 updatedAt: '2026-05-05'
-heroImage: ''
+heroImage: /images/hero/the-quiet-features-that-make-benches-easier-to-use-2.jpg
 excerpt: A practical, buyer-focused guide to comparing benches options for gymledger.app.
 pillarSlug: benches
 relatedProducts: []

@@ -1,11 +1,10 @@
 ---
 title: When to replace your weight-plates gear
-metaDescription: A practical GymLedger guide to choosing weight-plates with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing weight-plates with fewer regrets.
 publishedAt: '2026-04-30'
 pubDate: '2026-04-30'
 updatedAt: '2026-05-08'
-heroImage: ''
+heroImage: /images/hero/when-to-replace-your-weight-plates-gear.jpg
 excerpt: A practical, buyer-focused guide to comparing weight-plates options for gymledger.app.
 pillarSlug: weight-plates
 relatedProducts: []

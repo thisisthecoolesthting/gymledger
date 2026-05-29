@@ -8,7 +8,7 @@ tags:
 - power rack under 500
 - best barbell for home gym
 status: published
-heroImage: ''
+heroImage: /images/hero/best-adjustable-dumbbells-for-home-gym.jpg
 publishedAt: '2026-05-09'
 ---
 

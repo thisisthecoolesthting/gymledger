@@ -1,13 +1,11 @@
 ---
 title: The quiet features that make cardio-machines easier to use
-metaDescription: A practical GymLedger guide to choosing cardio-machines with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing cardio-machines with fewer regrets.
 publishedAt: '2026-05-02'
 pubDate: '2026-05-02'
 updatedAt: '2026-05-09'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing cardio-machines options for
-  gymledger.app.
+heroImage: /images/hero/the-quiet-features-that-make-cardio-machines-easier-to-use.jpg
+excerpt: A practical, buyer-focused guide to comparing cardio-machines options for gymledger.app.
 pillarSlug: cardio-machines
 relatedProducts: []
 status: published

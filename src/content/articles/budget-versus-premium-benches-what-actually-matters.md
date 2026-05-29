@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing benches with fewer regr
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-09'
-heroImage: ''
+heroImage: /images/hero/budget-versus-premium-benches-what-actually-matters.jpg
 excerpt: A practical, buyer-focused guide to comparing benches options for gymledger.app.
 pillarSlug: benches
 relatedProducts: []

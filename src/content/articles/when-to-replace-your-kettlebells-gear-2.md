@@ -4,7 +4,7 @@ metaDescription: A practical GymLedger guide to choosing kettlebells with fewer 
 publishedAt: '2026-05-01'
 pubDate: '2026-05-01'
 updatedAt: '2026-05-05'
-heroImage: ''
+heroImage: /images/hero/when-to-replace-your-kettlebells-gear-2.jpg
 excerpt: A practical, buyer-focused guide to comparing kettlebells options for gymledger.app.
 pillarSlug: kettlebells
 relatedProducts: []

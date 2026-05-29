@@ -1,13 +1,11 @@
 ---
 title: A practical resistance-bands gift guide (2)
-metaDescription: A practical GymLedger guide to choosing resistance-bands with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing resistance-bands with fewer regrets.
 publishedAt: '2026-05-10'
 pubDate: '2026-05-10'
 updatedAt: '2026-05-04'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing resistance-bands options for
-  gymledger.app.
+heroImage: /images/hero/a-practical-resistance-bands-gift-guide-2.jpg
+excerpt: A practical, buyer-focused guide to comparing resistance-bands options for gymledger.app.
 pillarSlug: resistance-bands
 relatedProducts: []
 status: published

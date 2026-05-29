@@ -1,13 +1,11 @@
 ---
 title: 'Budget versus premium gym-accessories: what actually matters (3)'
-metaDescription: A practical GymLedger guide to choosing gym-accessories with fewer
-  regrets.
+metaDescription: A practical GymLedger guide to choosing gym-accessories with fewer regrets.
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-03'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing gym-accessories options for
-  gymledger.app.
+heroImage: /images/hero/budget-versus-premium-gym-accessories-what-actually-matters-3.jpg
+excerpt: A practical, buyer-focused guide to comparing gym-accessories options for gymledger.app.
 pillarSlug: gym-accessories
 relatedProducts: []
 status: published
