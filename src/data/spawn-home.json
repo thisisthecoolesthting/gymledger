@@ -5,19 +5,19 @@
     "taglineShort": "Build your home gym right the first time.",
     "identity": {
       "palette": {
-        "primary": "#5B1115",
-        "accent": "#C0392B",
-        "cream": "#FFF7ED",
-        "ink": "#0B1120"
+        "primary": "#1A1A2E",
+        "accent": "#E94560",
+        "cream": "#F5F5F5",
+        "ink": "#0F0F1A"
       },
       "fonts": {
-        "display": "Oswald",
-        "body": "Roboto",
+        "display": "Space Grotesk",
+        "body": "Inter",
         "mono": "JetBrains Mono"
       },
       "mark": {
-        "svgPath": "brand/gymledger-mark.png",
-        "svgPublicPath": "/brand/gymledger-mark.png",
+        "svgPath": "brand/gymledger.svg",
+        "svgPublicPath": "/brand/gymledger.svg",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
@@ -28,7 +28,7 @@
       },
       "headerVariant": "minimal",
       "eyebrowText": "HOME GYM REVIEWS",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Roboto:wght@400;500;600;700&display=swap"
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
     }
   },
   "persona": {
@@ -65,7 +65,7 @@
     "ctaSecondaryLabel": "Build by budget",
     "ctaSecondaryHref": "/pillars/home-gym-by-budget",
     "trustLine": "Every piece of equipment purchased at retail. No brand sponsorships. Affiliate revenue only on gear we'd buy again.",
-    "heroImageUrl": "/images/hero-gymledger.webp"
+    "heroImageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1600&q=85"
   },
   "about": {
     "headline": "Why GymLedger exists",
@@ -75,5 +75,27 @@
     "ga_measurement_id": "",
     "ga_property_id": "",
     "search_console_property": "https://gymledger.app/"
-  }
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ]
 }

@@ -13,6 +13,7 @@ reviewCount: 18640
 bsr: 65
 commissionPerSale: 0.0
 score: 49.9
+imageUrl: "/images/amazon-picks/B01N7F38J4.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B01N7F38J4?tag=gymledger-20&linkCode=ll1&language=en_US"
 isPrime: true
 status: "published"
