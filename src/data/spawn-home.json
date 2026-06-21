@@ -2,79 +2,66 @@
   "brand": {
     "shortName": "GymLedger",
     "fullName": "GymLedger",
-    "taglineShort": "Build your home gym right the first time.",
+    "taglineShort": "Home gym gear tracked like a training log.",
     "identity": {
       "palette": {
-        "primary": "#1A1A2E",
-        "accent": "#E94560",
-        "cream": "#F5F5F5",
-        "ink": "#0F0F1A"
+        "primary": "#C0392B",
+        "accent": "#1F2937",
+        "cream": "#FEF2F2",
+        "ink": "#1C1917"
       },
       "fonts": {
-        "display": "Space Grotesk",
-        "body": "Inter",
+        "display": "Barlow Condensed",
+        "body": "Barlow",
         "mono": "JetBrains Mono"
       },
       "mark": {
-        "svgPath": "brand/gymledger.svg",
-        "svgPublicPath": "/brand/gymledger.svg",
+        "svgPath": "brand/gymledger-mark.svg",
+        "svgPublicPath": "/brand/gymledger-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
       "wordmark": {
-        "weight": 700,
+        "weight": 600,
         "tracking": "tight",
         "case": "normal"
       },
       "headerVariant": "minimal",
-      "eyebrowText": "HOME GYM REVIEWS",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+      "eyebrowText": "HOME GYM GEAR TRACKER",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600;700&display=swap"
     }
   },
-  "persona": {
-    "ymyl": false,
-    "tone": "direct_practical"
+  "homepage": {
+    "eyebrow": "Home gym gear tracker",
+    "h1": "Build a home gym without the markup creep",
+    "subhead": "We compare racks, dumbbells, and cardio gear on true cost-per-use — and flag when bundles quietly inflate the price of basics you lift every week.",
+    "ctaPrimaryLabel": "Browse gym guides",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "Our scoring method",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "Independent editorial · No brand sponsorships · We name the gear, we name the budget swap",
+    "heroImageUrl": "/hero/gymledger-hero.jpg",
+    "heroVideoUrl": "/hero/gymledger-hero.mp4"
   },
-  "editorial": {
-    "authorSlug": "marcus-webb",
-    "author_slug": "marcus-webb",
-    "methodology": [
-      "Every item purchased at retail and tested for 60+ days of regular training use \u2014 no floor models or manufacturer loaners.",
-      "Load testing: barbells tested to rated capacity, racks tested for stability under working load, cardio machines run for 30+ hours.",
-      "We photograph assembly and note actual time and difficulty \u2014 not manufacturer estimates.",
-      "Price-per-quality cliff is identified for each category: above this price, you're paying for branding not performance.",
-      "Reader failure reports are taken seriously: if three readers report the same failure mode we re-test and update the verdict.",
-      "Affiliate links go to the retailer with the best current price, not the highest commission."
-    ],
-    "ymyl": false
+  "palette": {
+    "primary": "#C0392B",
+    "secondary": "#F87171",
+    "accent": "#1F2937",
+    "surface": "#FEF2F2",
+    "ink": "#1C1917"
   },
   "newsletter": {
-    "title": "The GymLedger weekly",
-    "subtitle": "Practical picks and straight answers from GymLedger, once a week. No spam.",
-    "kicker": "Stay in the loop"
-  },
-  "supportEmail": "hello@gymledger.app",
-  "defaultAuthorSlug": "marcus-gymledger",
-  "defaultMetaDescription": "Honest reviews of dumbbells, barbells, power racks, benches, kettlebells, and cardio machines. We tell you exactly what to buy at $500, $2,000, and $5,000 budgets \u2014 and what to skip regardless of budg",
-  "homepage": {
-    "eyebrow": "Home gym equipment, tested",
-    "h1": "Build your home gym right the first time.",
-    "subhead": "Honest reviews of dumbbells, barbells, power racks, benches, kettlebells, and cardio machines. We tell you exactly what to buy at $500, $2,000, and $5,000 budgets \u2014 and what to skip regardless of budget.",
-    "ctaPrimaryLabel": "See top picks",
-    "ctaPrimaryHref": "/pillars",
-    "ctaSecondaryLabel": "Build by budget",
-    "ctaSecondaryHref": "/pillars/home-gym-by-budget",
-    "trustLine": "Every piece of equipment purchased at retail. No brand sponsorships. Affiliate revenue only on gear we'd buy again.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1600&q=85"
-  },
-  "about": {
-    "headline": "Why GymLedger exists",
-    "body": "The home gym market is full of $400 dumbbells that wobble and $2,000 racks that ship without hardware. We test equipment in a real garage gym, not a studio, and write about what actually holds up when you're using it 5 days a week."
+    "title": "GymLedger weekly",
+    "subtitle": "One gear price alert, one smarter swap, one training-room check — every week. No spam."
   },
   "analytics": {
-    "ga_measurement_id": "",
-    "ga_property_id": "",
+    "ga_measurement_id": "G-5SKQ9NZHML",
+    "ga_property_id": "537610229",
     "search_console_property": "https://gymledger.app/"
+  },
+  "defaultAuthorSlug": "dana-wolff",
+  "editorial": {
+    "author_slug": "dana-wolff"
   },
   "navigation": [
     {
@@ -97,5 +84,20 @@
       "href": "/about",
       "label": "About"
     }
-  ]
+  ],
+  "supportEmail": "hello@gymledger.app",
+  "monetization": {
+    "default_topic": "household-staples",
+    "amazon_associate_tag": "gymledger-20",
+    "pinterest": {
+      "pin_templates": [
+        "routine-card",
+        "ingredient-spotlight",
+        "before-after",
+        "product-strip"
+      ],
+      "rotate_by": "article_slug"
+    }
+  },
+  "disablePhonePromos": true
 }

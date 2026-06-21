@@ -1,0 +1,141 @@
+22:41:06 [types] Generated 831ms
+22:41:06 [build] output: "static"
+22:41:06 [build] directory: C:\Projects\sites\gymledger\dist\
+22:41:06 [build] Collecting build info...
+22:41:06 [build] ✓ Completed in 913ms.
+22:41:06 [build] Building static entrypoints...
+22:41:14 [vite] ✓ built in 7.62s
+22:41:14 [build] ✓ Completed in 7.67s.
+
+ building client (vite) 
+22:41:14 [vite] transforming...
+22:41:14 [vite] ✓ 6 modules transformed.
+22:41:14 [vite] rendering chunks...
+22:41:14 [vite] computing gzip size...
+22:41:14 [vite] dist/_astro/hoisted.k7HZ-5pS.js  0.87 kB │ gzip: 0.42 kB
+22:41:14 [vite] dist/_astro/hoisted.ZBInT8Wr.js  1.26 kB │ gzip: 0.66 kB
+22:41:14 [vite] dist/_astro/hoisted.CAbLVq55.js  1.47 kB │ gzip: 0.65 kB
+22:41:14 [vite] ✓ built in 30ms
+
+ generating static routes 
+22:41:14 ▶ src/pages/404.astro
+22:41:14   └─ /404.html (+13ms)
+22:41:14 ▶ src/pages/about.astro
+22:41:14   └─ /about/index.html (+8ms)
+22:41:14 ▶ src/pages/articles/[slug].astro
+22:41:14   ├─ /articles/a-practical-barbell-collars-gift-guide/index.html (+12ms)
+22:41:14   ├─ /articles/a-practical-benches-gift-guide/index.html (+11ms)
+22:41:14   ├─ /articles/a-practical-cable-machines-gift-guide/index.html (+8ms)
+22:41:14   ├─ /articles/a-practical-cardio-machines-gift-guide-3/index.html (+7ms)
+22:41:14   ├─ /articles/a-practical-dumbbells-gift-guide/index.html (+6ms)
+22:41:14   ├─ /articles/a-practical-home-gym-mirrors-gift-guide/index.html (+17ms)
+22:41:14   ├─ /articles/a-practical-power-racks-gift-guide/index.html (+8ms)
+22:41:14   ├─ /articles/a-practical-resistance-bands-gift-guide-2/index.html (+6ms)
+22:41:14   ├─ /articles/a-practical-weight-plates-gift-guide/index.html (+9ms)
+22:41:14   ├─ /articles/a-practical-weightlifting-belt-gift-guide/index.html (+7ms)
+22:41:14   ├─ /articles/barbell-collars-buying-mistakes-to-avoid/index.html (+6ms)
+22:41:14   ├─ /articles/barbells-buying-mistakes-to-avoid/index.html (+10ms)
+22:41:14   ├─ /articles/benches-buying-mistakes-to-avoid/index.html (+10ms)
+22:41:14   ├─ /articles/best-adjustable-dumbbells-for-home-gym/index.html (+7ms)
+22:41:14   ├─ /articles/best-barbell-collars-for-home-gym-2026/index.html (+6ms)
+22:41:14   ├─ /articles/best-budget-barbells-for-home-gym-under-200/index.html (+9ms)
+22:41:14   ├─ /articles/best-budget-benches-for-home-gym-under-150/index.html (+8ms)
+22:41:14   ├─ /articles/best-budget-dumbbells-for-home-gym-under-100/index.html (+6ms)
+22:41:14   ├─ /articles/best-budget-kettlebells-for-home-gym-under-50/index.html (+7ms)
+22:41:14   ├─ /articles/best-budget-power-racks-for-home-gym-under-400/index.html (+8ms)
+22:41:14   ├─ /articles/best-dumbbells-upgrades-for-small-spaces/index.html (+7ms)
+22:41:14   ├─ /articles/best-gym-flooring-upgrades-for-small-spaces-3/index.html (+9ms)
+22:41:14   ├─ /articles/best-home-gym-mirrors-for-small-spaces/index.html (+7ms)
+22:41:14   ├─ /articles/best-pull-up-bars-upgrades-for-small-spaces-2/index.html (+7ms)
+22:41:14   ├─ /articles/best-weight-plates-upgrades-for-home-gym-2026/index.html (+8ms)
+22:41:14   ├─ /articles/best-weightlifting-belt-upgrades-for-serious-lifters/index.html (+8ms)
+22:41:14   ├─ /articles/budget-versus-premium-barbells-what-actually-matters-2/index.html (+6ms)
+22:41:14   ├─ /articles/budget-versus-premium-benches-what-actually-matters/index.html (+5ms)
+22:41:14   ├─ /articles/budget-versus-premium-gym-accessories-what-actually-matters-3/index.html (+9ms)
+22:41:14   ├─ /articles/budget-versus-premium-weight-plates-what-actually-matters/index.html (+8ms)
+22:41:14   ├─ /articles/cable-machines-buying-mistakes-to-avoid-3/index.html (+6ms)
+22:41:14   ├─ /articles/cardio-machines-buying-mistakes-to-avoid/index.html (+6ms)
+22:41:14   ├─ /articles/dumbbells-buying-mistakes-to-avoid/index.html (+7ms)
+22:41:14   ├─ /articles/dumbbells-setup-checklist-for-beginners-3/index.html (+19ms)
+22:41:14   ├─ /articles/gym-accessories-buying-mistakes-to-avoid-2/index.html (+12ms)
+22:41:14   ├─ /articles/gym-flooring-essentials-for-weekend-projects/index.html (+7ms)
+22:41:14   ├─ /articles/home-gym-lighting-essentials-for-better-workouts/index.html (+7ms)
+22:41:14   ├─ /articles/home-gym-mirrors-buying-mistakes-to-avoid/index.html (+6ms)
+22:41:14   ├─ /articles/how-to-clean-and-maintain-your-home-gym-equipment/index.html (+7ms)
+22:41:14   ├─ /articles/how-to-compare-dumbbells-before-you-buy-2/index.html (+7ms)
+22:41:14   ├─ /articles/how-to-compare-power-racks-before-you-buy/index.html (+7ms)
+22:41:15   ├─ /articles/how-to-compare-pull-up-bars-before-you-buy-3/index.html (+8ms)
+22:41:15   ├─ /articles/how-to-compare-weight-plates-before-you-buy/index.html (+7ms)
+22:41:15   ├─ /articles/kettlebells-buying-mistakes-to-avoid/index.html (+6ms)
+22:41:15   ├─ /articles/kettlebells-essentials-for-weekend-projects-3/index.html (+8ms)
+22:41:15   ├─ /articles/kettlebells-setup-checklist-for-beginners/index.html (+8ms)
+22:41:15   ├─ /articles/power-racks-buying-mistakes-to-avoid/index.html (+6ms)
+22:41:15   ├─ /articles/power-racks-setup-checklist-for-beginners-2/index.html (+6ms)
+22:41:15   ├─ /articles/pull-up-bars-buying-mistakes-to-avoid/index.html (+7ms)
+22:41:15   ├─ /articles/storage-and-maintenance-tips-for-benches-3/index.html (+7ms)
+22:41:15   ├─ /articles/storage-and-maintenance-tips-for-cardio-machines-2/index.html (+8ms)
+22:41:15   ├─ /articles/storage-and-maintenance-tips-for-dumbbells/index.html (+6ms)
+22:41:15   ├─ /articles/storage-and-maintenance-tips-for-power-racks/index.html (+6ms)
+22:41:15   ├─ /articles/storage-and-maintenance-tips-for-resistance-bands/index.html (+8ms)
+22:41:15   ├─ /articles/the-quiet-features-that-make-barbells-easier-to-use-3/index.html (+8ms)
+22:41:15   ├─ /articles/the-quiet-features-that-make-benches-easier-to-use-2/index.html (+6ms)
+22:41:15   ├─ /articles/the-quiet-features-that-make-cardio-machines-easier-to-use/index.html (+6ms)
+22:41:15   ├─ /articles/the-quiet-features-that-make-dumbbells-easier-to-use/index.html (+8ms)
+22:41:15   ├─ /articles/the-quiet-features-that-make-power-racks-easier-to-use/index.html (+7ms)
+22:41:15   ├─ /articles/weight-plates-buying-mistakes-to-avoid/index.html (+8ms)
+22:41:15   ├─ /articles/weight-plates-essentials-for-weekend-projects-2/index.html (+6ms)
+22:41:15   ├─ /articles/weightlifting-belt-buying-mistakes-to-avoid/index.html (+5ms)
+22:41:15   ├─ /articles/when-to-replace-your-benches-gear/index.html (+8ms)
+22:41:15   ├─ /articles/when-to-replace-your-cardio-machines-gear/index.html (+9ms)
+22:41:15   ├─ /articles/when-to-replace-your-dumbbells-gear/index.html (+6ms)
+22:41:15   ├─ /articles/when-to-replace-your-kettlebells-gear-2/index.html (+6ms)
+22:41:15   ├─ /articles/when-to-replace-your-power-racks-gear-3/index.html (+7ms)
+22:41:15   ├─ /articles/when-to-replace-your-pull-up-bars-gear/index.html (+5ms)
+22:41:15   ├─ /articles/when-to-replace-your-resistance-bands-gear/index.html (+11ms)
+22:41:15   └─ /articles/when-to-replace-your-weight-plates-gear/index.html (+7ms)
+22:41:15 ▶ src/pages/articles/index.astro
+22:41:15   └─ /articles/index.html (+24ms)
+22:41:15 ▶ src/pages/authors/[slug].astro
+22:41:15   ├─ /authors/dana-wolff/index.html (+6ms)
+22:41:15   ├─ /authors/eli-rowe/index.html (+7ms)
+22:41:15   ├─ /authors/marcus-chen/index.html (+5ms)
+22:41:15   ├─ /authors/marcus-webb/index.html (+7ms)
+22:41:15   ├─ /authors/nate-brennan/index.html (+4ms)
+22:41:15   └─ /authors/rosa-linden/index.html (+5ms)
+22:41:15 ▶ src/pages/contact.astro
+22:41:15   └─ /contact/index.html (+3ms)
+22:41:15 ▶ src/pages/disclosure.astro
+22:41:15   └─ /disclosure/index.html (+3ms)
+22:41:15 ▶ src/pages/editorial-standards.astro
+22:41:15   └─ /editorial-standards/index.html (+3ms)
+22:41:15 ▶ src/pages/methodology.astro
+22:41:15   └─ /methodology/index.html (+4ms)
+22:41:15 ▶ src/pages/pillars/[slug].astro
+22:41:15   ├─ /pillars/cardio-gear-cost-per-use/index.html (+6ms)
+22:41:15   ├─ /pillars/dumbbell-buying-guide/index.html (+5ms)
+22:41:15   ├─ /pillars/home-gym-starter-guide/index.html (+8ms)
+22:41:15   └─ /pillars/power-rack-safety-checklist/index.html (+6ms)
+22:41:15 ▶ src/pages/pillars/index.astro
+22:41:15   └─ /pillars/index.html (+3ms)
+22:41:15 ▶ src/pages/privacy.astro
+22:41:15   └─ /privacy/index.html (+3ms)
+22:41:15 ▶ src/pages/products/[slug].astro
+22:41:15   ├─ /products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/index.html (+58ms)
+22:41:15   ├─ /products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/index.html (+35ms)
+22:41:15   ├─ /products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/index.html (+38ms)
+22:41:15   ├─ /products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/index.html (+34ms)
+22:41:15   └─ /products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/index.html (+36ms)
+22:41:15 ▶ src/pages/products/index.astro
+22:41:15   └─ /products/index.html (+49ms)
+22:41:15 λ src/pages/rss.xml.js
+22:41:15   └─ /rss.xml (+12ms)
+22:41:15 λ src/pages/sitemap.xml.ts
+22:41:15   └─ /sitemap.xml (+3ms)
+22:41:15 ▶ src/pages/terms.astro
+22:41:15   └─ /terms/index.html (+2ms)
+22:41:15 ▶ src/pages/index.astro
+22:41:15   └─ /index.html (+6ms)
+22:41:15 ✓ Completed in 1.24s.
+
+22:41:15 [build] 97 page(s) built in 10.36s
+22:41:15 [build] Complete!
